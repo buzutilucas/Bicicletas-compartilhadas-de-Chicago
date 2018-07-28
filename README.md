@@ -14,4 +14,4 @@ uma estação dentro do sistema para desbloquear ou devolver as bicicletas. Essa
 tecnologias também fornecem uma riqueza de dados que podem ser utilizados para
 explorar como esses sistemas de compartilhamento de bicicletas são usados.
 
-FONTE: (https://br.udacity.com/course/fundamentos-machine-learning--nd109)
+FONTE: [br.udacity.com](https://br.udacity.com/course/fundamentos-machine-learning--nd109)
